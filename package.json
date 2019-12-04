@@ -1,0 +1,19 @@
+{
+  "name": "crop-insurance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "compile": "truffle compile",
+     "migrate": "truffle migrate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@etherisc/gif": "^1.0.1",
+    "openzeppelin-solidity": "^2.4.0",
+    "truffle": "^5.1.2",
+    "truffle-hdwallet-provider": "^1.0.6"
+  }
+}
